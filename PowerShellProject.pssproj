@@ -28,6 +28,7 @@
   <ItemGroup />
   <ItemGroup>
     <Compile Include="FileCopy.ps1" />
+    <Compile Include="GetDiskSpace.ps1" />
     <Compile Include="RegKeyExport.ps1" />
     <Compile Include="RemoveFileCR.ps1" />
     <Compile Include="ReplaceFileContents.ps1" />
