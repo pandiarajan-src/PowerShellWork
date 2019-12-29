@@ -32,6 +32,7 @@
     <Compile Include="RegKeyExport.ps1" />
     <Compile Include="RemoveFileCR.ps1" />
     <Compile Include="ReplaceFileContents.ps1" />
+    <Compile Include="UninstallByName.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Target Name="Build" />

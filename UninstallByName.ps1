@@ -1,0 +1,3 @@
+#
+# UninstallByName.ps1
+#
